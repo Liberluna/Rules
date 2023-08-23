@@ -9,7 +9,7 @@ Liberlunaの活動に積極的に関与する必要があります。
 - オープンチャット「Liberluna Developers」への参加権
 - Discordサーバー「Liberluna Comunity」の「MEMBER」ロール
 - Discordサーバー「Liberluna」への参加権
-- Matrixスペース「Liberluna」への参加権
+- Matrixスペース「Liberluna」への「既定値」以上権限の参加権
 - GitHub Organization「Liberluna」へのmemberとしての参加権
 
 #### リーダー
@@ -32,7 +32,7 @@ Liberlunaの活動に積極的に関与する必要があります。
 
 権限は以下の通りです
 - GitHub Organization「Liberluna」へのOwnerとしての参加権
-
+- Matrixスペース「Liberluna」でのモデレーター以上権限
 ### 2. サブメンバー
 Liberlunaの活動に積極的に関わる必要はありません。
 
