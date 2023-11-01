@@ -1,4 +1,4 @@
-# Liberluna参加規約
+# Liberlunルール
 ## 活動場所について
 Liberlunaの活動場所は、以下の通りです。
 - `Liberluna Community@LINE` LINEオープンチャット https://line.me/ti/g2/beNFT8zr5MEL_Um5xmSBZthZwfIuZcQu8-bYMA
