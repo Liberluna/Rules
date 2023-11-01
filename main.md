@@ -1,4 +1,11 @@
 # Liberluna参加規約
+## 活動場所について
+Liberlunaの活動場所は、以下の通りです。
+- `Liberluna@LINE` LINEオープンチャット https://line.me/ti/g2/beNFT8zr5MEL_Um5xmSBZthZwfIuZcQu8-bYMA
+- `Liberluna Developers` LINEオープンチャット
+- `Liberluna@Discord` Discord サーバー ID `1105054488093536337`
+- `Liberluna@Matrix` Matrixスペース
+- `Liberluna Community@Matrix` Matrixスペース `#liberluna-community:matrix.org`
 ## 人について
 ### 1. メンバー
 Liberlunaメンバーです。自分をLiberlunaメンバーだと名乗ることができます。Webサイトのメンバー一覧に掲載されます。
